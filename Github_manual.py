@@ -52,6 +52,15 @@ git push origin master
 : master branch로 코드 전송
 * github 사이트서 새로고침
 
+    6) 폴더에 있는 파일 추가하기
+>>
+git commit -m "Add existing file"
+파일 추가
+>>
+git push origin master
+: master branch로 코드 전송
+* github 사이트서 새로고침
+
 
 # git 협업하는 경우
     1) 공유된 코드 사용하는 방법
