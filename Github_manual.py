@@ -18,7 +18,7 @@ git init
 >>
 git add .
 : 전부 업로드하기(add 다음에 한 칸 띄우고 . 누름에 유의)
-git 파일명
+cf) git 파일명
 : 특정 파일을 업로드하기
 >>
 git status
@@ -29,8 +29,8 @@ git commit -m "first commit"
 
     4) 히스토리 깃허브에 보내기
 >>
-git remote add origin https://github.com/이름명/git 저장소명
-: 깃허브 연결고리 추가
+git remote add origin https://github.com/이름명/git저장소명
+: 깃허브 연결고리 추가(https://github.com/이름명/git저장소명는 깃허브 링크 복사 후 붙여넣기)
 >>
 git remote -v
 : 연결고리 확인
